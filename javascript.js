@@ -8,3 +8,4 @@ function sumar (a,b){
 }
 let resultado = sumar(valor1,valor2);
 console.log(resultado);
+console.log("este es un nuevo mensaje");
